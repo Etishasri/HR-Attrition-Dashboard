@@ -25,7 +25,7 @@ The dashboard provides key insights such as:
 ## 🛠️ Tools Used
 
 - Power BI Desktop  
-- HR Employee Dataset  
+- <a href ='https://github.com/Etishasri/HR-Attrition-Dashboard/blob/main/HR-Employee-Attrition.csv'> HR Employee Dataset </a>  
 - Data Visualization & Dashboard Design
 
 ## 💡 Insights
