@@ -1,0 +1,57 @@
+# 📈 HR Analysis Insights
+
+This document highlights the key findings and business insights derived from the HR Analysis Dashboard created in Power BI.
+
+---
+
+## 🔍 Key Metrics
+- **Total Employees**: 1470
+- **Attrition Count**: 237
+- **Attrition Rate**: 16.1%
+- **Average Age**: 37 years
+
+---
+
+## 🧠 Business Insights
+
+### 1. **Attrition by Education**
+- Most attrition occurs among employees with Bachelor's and Master's degrees.
+- Employees with lower education levels show relatively stable retention.
+
+### 2. **Attrition by Age Group**
+- Highest attrition is observed among employees aged **26–33**.
+- Employees above 40 tend to have a lower attrition rate, indicating stronger retention.
+
+### 3. **Attrition by Job Satisfaction**
+- Employees with **lower job satisfaction scores** (1 or 2) are more likely to leave.
+- Improving job satisfaction could reduce turnover significantly.
+
+### 4. **Attrition by Salary Range**
+- Employees earning **below $5,000/month** show the highest attrition rate.
+- Salary increments or better compensation packages could improve retention.
+
+### 5. **Attrition by Years at Company**
+- Most attrition occurs within the **first 0–3 years** of employment.
+- Emphasizes the need for better onboarding, training, and early engagement programs.
+
+### 6. **Attrition by Gender**
+- Both genders show similar attrition trends, though slightly higher in males.
+
+### 7. **Job Role Turnover**
+- **Laboratory Technicians** and **Sales Executives** are the most affected roles.
+- Targeted role-specific interventions may help reduce attrition.
+
+---
+
+## 🧭 Recommendations
+
+- Conduct **exit interviews** to understand the root causes of early exits.
+- Implement **mentorship and employee engagement programs** in the first 3 years.
+- Offer **performance-based incentives** and satisfaction surveys to reduce dissatisfaction.
+- Analyze salary bands and ensure **competitive compensation**, especially in high-turnover roles.
+
+---
+
+## 📌 Conclusion
+
+This HR Dashboard enables data-driven decisions by pinpointing critical attrition factors. Focusing on satisfaction, compensation, and early career support can help reduce employee turnover and improve organizational stability.
